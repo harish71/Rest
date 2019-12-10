@@ -24,7 +24,7 @@ import com.slokam.RestSample.repo.StudentRepo;
 public class StudentController {
 
 	private static final Logger LOGGER = LoggerFactory.getLogger(StudentController.class);
-	
+	//
 	@Autowired
 	private StudentRepo studentRepo;
 	
